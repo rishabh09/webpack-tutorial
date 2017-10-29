@@ -1,4 +1,10 @@
 $blue: #3498db;
 body{
+    color: white;
     background-color: $blue;
+    padding: 20px;
+}
+
+p{
+    font-size: responsive;
 }
